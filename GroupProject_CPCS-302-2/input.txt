@@ -1,0 +1,6 @@
+void main(void)
+{
+	int a=10; int b=20;
+	b = a++;
+	"Hello \"world\" it's me "
+}
